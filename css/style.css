@@ -323,8 +323,8 @@ html {
 }
 
 body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
   line-height: 1.42857143;
   color: #333333;
   background-color: #ffffff;
@@ -2688,13 +2688,11 @@ table th[class*="col-"] {
 }
 
 #banner h1 {
-  font-family: 'Dancing Script', cursive;
   font-size: 36px;
   margin-bottom: 0;
 }
 
 #banner .h2 {
-  font-family: 'Dancing Script', cursive;
   font-size: 28px;
   font-weight: 200;
   margin-bottom: 0;
@@ -3020,7 +3018,7 @@ table th[class*="col-"] {
     color: #fff;
   }
   #banner .container {
-    padding-top: 100px;
+    padding-top: 300px;
     padding-bottom: 50px;
   }
 }
