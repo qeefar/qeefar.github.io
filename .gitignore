@@ -1,0 +1,16 @@
+# OS and IDE
+*~
+*.bak
+Thumbs.db
+desktop.ini
+.buildpath
+.project
+.settings
+*.tmproj
+git_impact.sh
+cache.properties
+nbproject/
+.php_cs.cache
+._.DS_Store
+.DS_Store
+.vscode
