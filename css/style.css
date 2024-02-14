@@ -324,7 +324,7 @@ html {
 
 body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-  font-size: 1rem;
+  font-size: 16px;
   line-height: 1.42857143;
   color: #333333;
   background-color: #ffffff;
@@ -2627,10 +2627,9 @@ table th[class*="col-"] {
 }
 
 #logo {
-  font-weight: 300;
+  font-weight: 400;
   padding: 0 5px;
-  border: 2px solid #666666;
-  color: #333333;
+  color: #666666;
 }
 
 #topmenu {
@@ -2650,6 +2649,7 @@ table th[class*="col-"] {
   -moz-transition: font-size .3s;
   transition: font-size .3s;
   color: #666666;
+  font-size: 18px;
 }
 
 #navbtn {
@@ -3073,7 +3073,7 @@ table th[class*="col-"] {
     margin: 5px 0;
   }
   .sticky-nav #topmenu li a {
-    font-size: 14px;
+    font-size: 18px;
   }
   .sticky-nav #logo {
     font-size: 24px;
