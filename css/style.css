@@ -2870,6 +2870,13 @@ table th[class*="col-"] {
 .level-10 {
   width: 100%;
 }
+#logo {
+    display:inline-block;
+}
+#logo img{
+    max-width: 195px;
+    max-height: 52px;
+}
 
 /* Font Icons
 ----------------------------------------------------------------------*/
