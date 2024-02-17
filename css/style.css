@@ -326,7 +326,7 @@ body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
   font-size: 16px;
   line-height: 1.42857143;
-  color: #333333;
+  color: #4f4f4f;
   background-color: #ffffff;
   letter-spacing: 0.025em;
 }
@@ -345,13 +345,13 @@ textarea {
 }
 
 a {
-  color: #333333;
+  color: #4f4f4f;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #333333;
+  color: #4f4f4f;
   text-decoration: none;
 }
 
@@ -407,7 +407,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 h5, .h5 {
@@ -547,7 +547,7 @@ kbd {
   padding: 2px 4px;
   font-size: 90%;
   color: #fff;
-  background-color: #333333;
+  background-color: #4f4f4f;
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
@@ -567,7 +567,7 @@ pre {
   line-height: 1.42857143;
   word-break: break-all;
   word-wrap: break-word;
-  color: #333333;
+  color: #4f4f4f;
   background-color: #f9f9f9;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -629,7 +629,7 @@ pre code {
 }
 
 .text-primary {
-  color: #333333;
+  color: #4f4f4f;
 }
 
 .text-secondary {
@@ -661,7 +661,7 @@ a.text-danger:focus {
 
 .bg-primary {
   color: #fff;
-  background-color: #333333;
+  background-color: #4f4f4f;
 }
 
 .bg-secondary {
@@ -1180,7 +1180,7 @@ blockquote.pull-right .small:after {
 }
 
 .carousel-indicators .active {
-  background-color: #333333;
+  background-color: #4f4f4f;
 }
 
 /* Form Elements
@@ -1212,9 +1212,9 @@ blockquote.pull-right .small:after {
   -moz-transition: background 0.3s;
   -o-transition: background 0.3s;
   transition: background 0.3s;
-  color: #333333;
+  color: #4f4f4f;
   background-color: transparent;
-  border-color: #666666;
+  border-color: #4f4f4f;
 }
 
 .btn:focus,
@@ -1282,8 +1282,8 @@ fieldset[disabled] a.btn {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #333333;
-  border-color: #333333;
+  background-color: #4f4f4f;
+  border-color: #4f4f4f;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
@@ -1305,7 +1305,7 @@ fieldset[disabled] a.btn {
 }
 
 .btn-link {
-  color: #333333;
+  color: #4f4f4f;
   font-weight: 400;
   cursor: pointer;
   border-radius: 0;
@@ -1339,7 +1339,7 @@ input, select, textarea {
   background: #ffffff;
   font-weight: 400;
   font-size: 16px;
-  color: #333333;
+  color: #4f4f4f;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
@@ -1477,7 +1477,7 @@ a.label:focus {
 }
 
 .label-primary {
-  background-color: #333333;
+  background-color: #4f4f4f;
 }
 
 .label-primary[href]:hover,
@@ -1841,7 +1841,7 @@ a.label:focus {
 .table > colgroup + thead > tr:first-child > td,
 .table > thead:first-child > tr:first-child > td {
   border-top: 0;
-  background: #666666;
+  background: #4f4f4f;
   color: #fff;
   font-weight: 600;
 }
@@ -1918,7 +1918,7 @@ table th[class*="col-"] {
 .table-hover > tbody > tr > .active:hover,
 .table-hover > tbody > .active:hover > td,
 .table-hover > tbody > .active:hover > th {
-  background-color: #666666;
+  background-color: #4f4f4f;
 }
 
 .table > thead > tr > .success,
@@ -2629,7 +2629,7 @@ table th[class*="col-"] {
 #logo {
   font-weight: 400;
   padding: 0 5px;
-  color: #666666;
+  color: #4f4f4f;
 }
 
 #topmenu {
@@ -2648,7 +2648,7 @@ table th[class*="col-"] {
   -webkit-transition: font-size .3s;
   -moz-transition: font-size .3s;
   transition: font-size .3s;
-  color: #666666;
+  color: #4f4f4f;
   font-size: 18px;
 }
 
@@ -2673,7 +2673,7 @@ table th[class*="col-"] {
   width: 100%;
   height: 3px;
   margin-top: 3px;
-  background: #333333;
+  background: #4f4f4f;
 }
 
 #banner {
@@ -2709,7 +2709,7 @@ table th[class*="col-"] {
   font-weight: 400;
   margin-bottom: 30px;
   letter-spacing: normal;
-  color: #333333;
+  color: #4f4f4f;
 }
 
 .section-header::after {
@@ -2717,7 +2717,7 @@ table th[class*="col-"] {
   display: table;
   width: 70%;
   height: 2px;
-  background: #666666;
+  background: #4f4f4f;
   margin: 0 auto;
 }
 
@@ -2801,7 +2801,7 @@ table th[class*="col-"] {
 }
 
 .skill h4 {
-  line-height: 22px;
+  line-height: 12px;
   margin-bottom: 10px;
 }
 
@@ -2814,7 +2814,7 @@ table th[class*="col-"] {
 
 .level {
   text-indent: -9999px;
-  background-color: #02b9ec;
+  background-color: #e6e6e6;
   height: 7px;
   width: 100%;
   margin: 5px 0;
@@ -3020,7 +3020,7 @@ table th[class*="col-"] {
   #topmenu li a:focus,
   #topmenu li a:active,
   #topmenu li a.active {
-    background-color: #666666;
+    background-color: #4f4f4f;
     color: #fff;
   }
   #banner .container {
@@ -3055,7 +3055,7 @@ table th[class*="col-"] {
   #topmenu li a:focus,
   #topmenu li a:active,
   #topmenu li a.active {
-    color: #333333;
+    color: #4f4f4f;
   }
   #topmenu li a::after {
     content: '';
