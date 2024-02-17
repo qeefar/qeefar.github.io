@@ -2827,8 +2827,8 @@ table th[class*="col-"] {
   display: block;
   background-color: #02b9ec;
   height: 7px;
-  -webkit-border-radius: 7px 0 0 7px;
-  border-radius: 7px 0 0 7px;
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
 }
 
 .level-1 {
