@@ -38,9 +38,10 @@ jQuery(document).ready(function($) {
         var myemail = 'trumpet-prelim.0l@icloud.com';
         var name = $('#contact_name').val();
         var email = $('#contact_email').val();
+        var subject = $('#contact_subject').val();
         var message = $('#contact_message').val();
         var body = 'Name: ' + name + '%0D%0AEmail: ' + email + '%0D%0AMessage: ' + message;
-        window.location = 'mailto:' + myemail + '?subject=New Message' + '&body=' + body;
+        window.location = 'mailto:' + myemail + '?subject=' + subject + '&body=' + body;
     } );
 
 });
