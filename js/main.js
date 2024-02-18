@@ -40,7 +40,7 @@ jQuery(document).ready(function($) {
         var email = $('#contact_email').val();
         var message = $('#contact_message').val();
         var body = 'Name: ' + name + '%0D%0AEmail: ' + email + '%0D%0AMessage: ' + message;
-        window.location = 'mailto:' + myemail + '?subject=' + subject + '&body=' + body;
+        window.location = 'mailto:' + myemail + '?subject=New Message' + '&body=' + body;
     } );
 
 });
