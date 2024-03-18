@@ -1,0 +1,17 @@
+{
+  "url1": "http://www.ikhwan-infotech.com/vdmdu/index.php",
+  "port1": "0",
+  "url2": "117.239.76.196",
+  "port2": "7000",
+  "ph1": "8594004027",
+  "ph2": "8281369353",
+  "ph3": "8281369353",
+  "ph4": "8281369353",
+  "ph5": "8281369353",
+  "infostring1": "Device - 1",
+  "infostring2": "Ikhwan Infotech",
+  "infostring3": "Tucheng Dist.",
+  "infostring4": "New Taipei City",
+  "ignonur": "30",
+  "ignoffur": "60"
+}
